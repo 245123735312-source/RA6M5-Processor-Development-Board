@@ -88,7 +88,7 @@ It focused on creating structured schematics, selecting components and footprint
 
 </p>
 <p>
-  <a href="<!-- https://github.com/245123735312-source/RA6M5-Processor-Development-Board/blob/961aef726d49b3b5a7b6e011a8682dd62b9ea6e4/RA6M5%20Pro%20Reportak.pdf -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a  href="<!-- https://github.com/245123735312-source/RA6M5-Processor-Development-Board/blob/961aef726d49b3b5a7b6e011a8682dd62b9ea6e4/RA6M5%20Pro%20Reportak.pdf -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
