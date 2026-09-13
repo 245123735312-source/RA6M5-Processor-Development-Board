@@ -18,19 +18,19 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--Potnuru Akhila --> </p>
-    <p><strong>Email ID:</strong> <!--potnuruakhila6@gmail.com--> </p>
-    <p><strong>College Name:</strong> <!--MVSREC--> </p>
-    <p><strong>Branch/Specialization :</strong> <!--ECE--> </p>
-    <p><strong>College ID:</strong> <!--2451-23-735-312--> </p>
+    <p><strong>Name:</strong> < Potnuru Akhila --> </p>
+    <p><strong>Email ID:</strong> < potnuruakhila6@gmail.com--> </p>
+    <p><strong>College Name:</strong> < MVSREC--> </p>
+    <p><strong>Branch/Specialization :</strong> < ECE--> </p>
+    <p><strong>College ID:</strong> < 2451-23-735-312--> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--PCB designing --> </p>
-    <p><strong>Instructor Name:</strong> <!--Mr. Paramesh--> </p>
+    <p><strong>Course Opted:</strong> < PCB designing --> </p>
+    <p><strong>Instructor Name:</strong> < Mr. Paramesh > </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> <!--6 --> </p>
