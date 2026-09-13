@@ -18,22 +18,22 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <Potnuru Akhila > </p>
-    <p><strong>Email ID:</strong> <potnuruakhila6@gmail.com> </p>
-    <p><strong>College Name:</strong> <MVSREC> </p>
-    <p><strong>Branch/Specialization :</strong> <ECE> </p>
-    <p><strong>College ID:</strong> <2451-23-735-312> </p>
+    <p><strong>Name:</strong> <!--Potnuru Akhila --> </p>
+    <p><strong>Email ID:</strong> <!--potnuruakhila6@gmail.com--> </p>
+    <p><strong>College Name:</strong> <!--MVSREC--> </p>
+    <p><strong>Branch/Specialization :</strong> <!--ECE--> </p>
+    <p><strong>College ID:</strong> <!--2451-23-735-312--> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <PCB designing > </p>
-    <p><strong>Instructor Name:</strong> <Mr. Paramesh> </p>
+    <p><strong>Course Opted:</strong> <!--PCB designing --> </p>
+    <p><strong>Instructor Name:</strong> <!--Mr. Paramesh--> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <6> </p>
+    <p><strong>Duration:</strong> <!--6 --> </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -88,7 +88,7 @@ It focused on creating structured schematics, selecting components and footprint
 
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="<!-- https://github.com/245123735312-source/RA6M5-Processor-Development-Board/blob/961aef726d49b3b5a7b6e011a8682dd62b9ea6e4/RA6M5%20Pro%20Reportak.pdf -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
@@ -116,7 +116,7 @@ It focused on creating structured schematics, selecting components and footprint
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
+- [renesas](https://www.renesas.com/en/document/man/ra6m5-group-users-manual-hardware)
 <!--you can add refrences over here in same syntax as above -->
 ---
 
@@ -125,14 +125,17 @@ It focused on creating structured schematics, selecting components and footprint
 
 <!-- add your experiences over here -->
 > _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+LST and SST sessions helped me improve my overall personality and professional skills.
+LST helped me develop self-confidence, time management, decision-making, and problem-solving abilities.
+SST sessions improved my communication, teamwork, presentation, and interpersonal skills.
+Overall, these sessions helped me become more confident, disciplined, and better prepared for a professional environment.
+
 
 ## **Community Services**
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented activities .....<!-- that helped me understand the importance of social responsibility. I actively participated in 9 tree plantation activities and contributed to food donations for 9 elderly people. These activities gave me an opportunity to contribute to the community, develop empathy, and understand the value of serving others. -->
 
 ### **Activities Involved**
 <!-- add the location where you given -->
