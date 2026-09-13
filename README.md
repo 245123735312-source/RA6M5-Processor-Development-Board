@@ -18,18 +18,18 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> < Potnuru Akhila --> </p>
-    <p><strong>Email ID:</strong> < potnuruakhila6@gmail.com--> </p>
-    <p><strong>College Name:</strong> < MVSREC--> </p>
-    <p><strong>Branch/Specialization :</strong> < ECE--> </p>
-    <p><strong>College ID:</strong> < 2451-23-735-312--> </p>
+    <p><strong>Name:</strong> < Potnuru Akhila > </p>
+    <p><strong>Email ID:</strong> < potnuruakhila6@gmail.com > </p>
+    <p><strong>College Name:</strong> < MVSREC > </p>
+    <p><strong>Branch/Specialization :</strong> < ECE > </p>
+    <p><strong>College ID:</strong> < 2451-23-735-312 > </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> < PCB designing --> </p>
+    <p><strong>Course Opted:</strong> < PCB designing > </p>
     <p><strong>Instructor Name:</strong> < Mr. Paramesh > </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
@@ -41,7 +41,7 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> <></p>
-<p><strong>Trainer Email ID:</strong> <kidos-infotech></p>
+<p><strong>Trainer Email ID:</strong> < kidos-infotech></p>
 <p><strong>Trainer Designation:</strong> < Mentor Sure Trust></p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -72,7 +72,7 @@ I gained hands-on experience with KiCad, schematic design, component selection, 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong>RA6M5 Processor Development Board</p>
+<p><strong><a href="#project1">Project 1:</a></strong> RA6M5 Processor Development Board</p>
 
 
 
@@ -81,7 +81,7 @@ I gained hands-on experience with KiCad, schematic design, component selection, 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <RA6M5 Processor Development Board></h3>
+<h3 id="project1">Project 1: < RA6M5 Processor Development Board></h3>
 <p>
  This project involved designing and developing a 4-layer RA6M5 Processor Development Board using KiCad EDA.
 It focused on creating structured schematics, selecting components and footprints, PCB placement and routing, power management, and validating the design through ERC and DRC checks to generate manufacturing-ready files.
@@ -135,25 +135,26 @@ Overall, these sessions helped me become more confident, disciplined, and better
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- that helped me understand the importance of social responsibility. I actively participated in 9 tree plantation activities and contributed to food donations for 9 elderly people. These activities gave me an opportunity to contribute to the community, develop empathy, and understand the value of serving others. -->
+During my internship period, I participated in multiple community-oriented activities .....< that helped me understand the importance of social responsibility. I actively participated in 9 tree plantation activities and contributed to food donations for 9 elderly people. These activities gave me an opportunity to contribute to the community, develop empathy, and understand the value of serving others.>
 
 ### **Activities Involved**
 <!-- add the location where you given -->
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
- <!-- add the location where you have panted -->
+ < in my college,hyderabad>
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+  < hyderabad >
+- **Helping Elder Citizens** – Assisted 9 elderly individuals by donating them food . 
 
-<!-- you can write impacts according to your experience in your words-->
+< These activities had a positive impact on me by helping me understand the importance of giving back to society. The tree plantation activities made me more aware of environmental responsibility, while providing food to elderly people taught me the value of empathy, kindness, and caring for others. Overall, these experiences improved my sense of social responsibility and encouraged me to contribute more actively to my community.
+>
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
+-<!-- add the location where you given -->
 - Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
+- Offered food to elderly citizens around bustops and temple .
 - Improved skills in communication, coordination, and social responsibility.
 
 ### **Photos**
