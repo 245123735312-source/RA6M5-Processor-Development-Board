@@ -88,25 +88,10 @@ It focused on creating structured schematics, selecting components and footprint
 
 </p>
 <p>
-  <a href="<!-- https://github.com/245123735312-source/RA6M5-Processor-Development-Board/blob/961aef726d49b3b5a7b6e011a8682dd62b9ea6e4/RA6M5%20Pro%20Reportak.pdf -->" target="_blank" ><strong>→ View Full Project Report</strong></a>
+  <a href="<!-- https://github.com/245123735312-source/RA6M5-Processor-Development-Board/blob/main/RA6M5%20Pro%20Reportak.pdf -->" target="_blank" ><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
