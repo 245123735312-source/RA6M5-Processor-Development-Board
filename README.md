@@ -33,7 +33,7 @@
     <p><strong>Instructor Name:</strong> < Mr. Paramesh > </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--6 --> </p>
+    <p><strong>Duration:</strong> < 6 > </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
