@@ -40,7 +40,7 @@
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <></p>
+<p><strong>Trainer Name:</strong> < Mr. Paramesh></p>
 <p><strong>Trainer Email ID:</strong> < kidos-infotech></p>
 <p><strong>Trainer Designation:</strong> < Mentor Sure Trust></p>
 
@@ -63,7 +63,7 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
+> 
 During this internship, I learned the fundamentals of PCB designing and electronic circuit development.
 I gained hands-on experience with KiCad, schematic design, component selection, PCB layout, routing, and design verification, while strengthening my skills in problem-solving, circuit analysis, documentation, and developing practical electronic solutions.
 
@@ -76,7 +76,7 @@ I gained hands-on experience with KiCad, schematic design, component selection, 
 
 
 
-<p><em>(You can add more projects as needed)</em></p>
+<p><em></em></p>
 
 </div>
 
@@ -88,7 +88,7 @@ It focused on creating structured schematics, selecting components and footprint
 
 </p>
 <p>
-  <a  href="<!-- https://github.com/245123735312-source/RA6M5-Processor-Development-Board/blob/961aef726d49b3b5a7b6e011a8682dd62b9ea6e4/RA6M5%20Pro%20Reportak.pdf -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="<!-- https://github.com/245123735312-source/RA6M5-Processor-Development-Board/blob/961aef726d49b3b5a7b6e011a8682dd62b9ea6e4/RA6M5%20Pro%20Reportak.pdf -->" target="_blank" ><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
