@@ -92,9 +92,6 @@ It focused on creating structured schematics, selecting components and footprint
 </p>
 
 
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
